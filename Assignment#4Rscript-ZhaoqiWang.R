@@ -140,6 +140,7 @@ print(question10$conditions[1:5])
 require(tidyr)
 require(dplyr)
 
+
 df <- data.frame(treatment = c("a", "b"), subject1 = c(3, 4), subject2 = c(5, 6))
 df
 
